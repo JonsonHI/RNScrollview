@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNScrollview"
-  s.version      = "v0.0.1"
+  s.version      = "0.0.1"
   s.summary      = "A short description of RNScrollview."
   s.homepage     = "https://github.com/JonsonHI/RNScrollview.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
